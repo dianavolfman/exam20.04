@@ -1,0 +1,15 @@
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\bin\Debug\ExamProject.exe.config
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\bin\Debug\ExamProject.exe
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\bin\Debug\ExamProject.pdb
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\ExamProject.csproj.AssemblyReference.cache
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\MainWindow.g.cs
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\App.g.cs
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\ExamProject_MarkupCompile.cache
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\ExamProject_MarkupCompile.lref
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\MainWindow.baml
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\ExamProject.g.resources
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\ExamProject.Properties.Resources.resources
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\ExamProject.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\ExamProject.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\ExamProject.exe
+C:\Users\diana\Desktop\exam20.04\ExamProject\ExamProject\obj\Debug\ExamProject.pdb

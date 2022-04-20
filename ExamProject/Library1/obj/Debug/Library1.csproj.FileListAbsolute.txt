@@ -1,0 +1,6 @@
+C:\Users\diana\Desktop\exam20.04\ExamProject\Library1\bin\Debug\Library1.dll
+C:\Users\diana\Desktop\exam20.04\ExamProject\Library1\bin\Debug\Library1.pdb
+C:\Users\diana\Desktop\exam20.04\ExamProject\Library1\obj\Debug\Library1.csproj.AssemblyReference.cache
+C:\Users\diana\Desktop\exam20.04\ExamProject\Library1\obj\Debug\Library1.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\exam20.04\ExamProject\Library1\obj\Debug\Library1.dll
+C:\Users\diana\Desktop\exam20.04\ExamProject\Library1\obj\Debug\Library1.pdb
